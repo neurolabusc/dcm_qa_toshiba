@@ -23,4 +23,4 @@ This dataset was acquired by Clement Debacker using a Toshiba 3T Galan running s
 * Series 10: DTI_ALL_20d
   * On all view rotation of 20 degrees.
 
-![alt tag](https://github.com/neurolabusc/DistanceFields/blob/master/toshiba.png)
+![alt tag](https://github.com/neurolabusc/dcm_qa_toshiba/blob/master/toshiba.png)
