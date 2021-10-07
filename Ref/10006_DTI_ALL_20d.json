@@ -35,6 +35,7 @@
 	"PhaseEncodingSteps": 16,
 	"AcquisitionMatrixPE": 64,
 	"ReconMatrixPE": 64,
+	"ParallelAcquisitionTechnique": "SPEEDER",
 	"PixelBandwidth": 1563,
 	"PhaseEncodingAxis": "j",
 	"ImageOrientationPatientDICOM": [
@@ -46,5 +47,5 @@
 		0.473538	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20201030"
+	"ConversionSoftwareVersion": "v1.0.20211006"
 }
