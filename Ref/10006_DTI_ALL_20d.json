@@ -1,7 +1,7 @@
 {
 	"Modality": "MR",
 	"MagneticFieldStrength": 3,
-	"ImagingFrequency": 123.209,
+	"ImagingFrequency": 123.2093163,
 	"Manufacturer": "Toshiba",
 	"ManufacturersModelName": "Galan 3T",
 	"InstitutionName": "GHU",
@@ -9,10 +9,11 @@
 	"InstitutionAddress": "-------------",
 	"DeviceSerialNumber": "9143",
 	"StationName": "Galan 3T",
-	"BodyPartExamined": "HEAD",
+	"BodyPart": "HEAD",
 	"PatientPosition": "HFS",
 	"SoftwareVersions": "V5.0SP6000*",
 	"MRAcquisitionType": "2D",
+	"StudyDescription": "MRI OPTIMIZATION",
 	"SeriesDescription": "DTI ALL 20d",
 	"ProtocolName": "DTI ALL 20d",
 	"ScanningSequence": "SE\\EP",
@@ -47,5 +48,5 @@
 		0.473538	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20211006"
+	"ConversionSoftwareVersion": "v1.0.20260416"
 }
